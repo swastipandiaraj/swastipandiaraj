@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Swasti</h1>
+<h3 align="center">An aspiring data analyst from India.</h3>
 
+- 🌱 I’m currently learning **R, SQL, Tableau.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <!--
 **swastipandiaraj/swastipandiaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
